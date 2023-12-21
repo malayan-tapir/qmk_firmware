@@ -1,6 +1,6 @@
 # minuskanamo_60
 
-![minuskanamo_60](https://imgur.com/gallery/hVhwGe8)
+![minuskanamo_60](https://imgur.com/yBAKOIl)
 
 ## A Customizable 60% Mechanical Keyboard PCB
 
