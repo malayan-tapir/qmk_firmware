@@ -1,6 +1,6 @@
 # ideakeys
 
-![ideakeys](https://imgur.com/a/JDXLV8m)
+![ideakeys](https://imgur.com/gallery/JDXLV8m)
 
 *A short description of the keyboard/project*
 
