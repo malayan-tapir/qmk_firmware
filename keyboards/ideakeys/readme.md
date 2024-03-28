@@ -1,6 +1,6 @@
 # ideakeys
 
-![ideakeys](<blockquote class="imgur-embed-pub" lang="en" data-id="sF3Na8d"><a href="https://imgur.com/sF3Na8d">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![ideakeys]([img]https://i.imgur.com/sF3Na8d.jpg[/img])
 
 *A short description of the keyboard/project*
 
